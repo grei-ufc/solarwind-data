@@ -10,7 +10,7 @@ from wind_analysis import run_wind_analysis
 # ===================================================================
 # IMPORTANT: INSERT YOUR CDS API KEY HERE (from https://cds.climate.copernicus.eu/user)
 # ===================================================================
-API_KEY = "ad0a1185-6e14-4cbb-bcdb-5ebfd4bd8faf"  # ← INSERT YOU KEY HERE
+API_KEY = ""  # ← INSERT YOU KEY HERE
 
 
 def main():
